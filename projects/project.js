@@ -60,8 +60,8 @@ const Projects = [
     about:
       "Buy Sports Goods Online India at best prices at Sportsjam.in India's leading Online Sports & Fitness Equipment Store. Enjoy shopping!",
     img: "https://d1gzz21cah5pzn.cloudfront.net/img/websites/s/spo/sportsjam.in-desktop@2x.1629610212.jpg",
-    gitrepo: "https://github.com/Luke0912/Sportsjam",
-    video: "https://sports-jam.netlify.app/",
+    gitrepo: "https://github.com/moazzemhosen/SportsJm-Clone",
+    video: "https://sports-jm-clone.vercel.app/",
     blog: "https://medium.com/@ankitmi468/youtube-clone-a-visual-functional-clone-6f50ea8a9757",
     tech_stack: "HTML | CSS | JAVASCRIPT | API's | REACT | REDUX |",
     tech_stackicons: [
@@ -72,7 +72,7 @@ const Projects = [
       `<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48px"/>`,
       `<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMduCL-pqoIONsP8u2DNB47okRkDD8Vr7d-VCZWjWsNjbzgd4zGmMddN_D8nayuheUDYU&usqp=CAU" width="48px"/>`,
     ],
-    project_link: "https://sports-jam.netlify.app/",
+    project_link: "https://sports-jm-clone.vercel.app/",
     project_type: "Group Project",
   },
   // {
