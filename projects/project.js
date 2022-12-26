@@ -8,7 +8,7 @@ const Projects = [
     video: "https://courageous-seahorse-df76dc.netlify.app",
     // blog : "https://medium.com/@moazzemhosen9/credobeauty-clone-9f76f70574dc",
     tech_stack:
-      "HTML | CSS | JAVASCRIPT | BOOTSTRAP | API | JSON-SERVER | LOCAL STROAGE",
+      "HTML | CSS | JAVASCRIPT | BOOTSTRAP | API | JSON-SERVER | LOCAL STROAGE | EXPRESS",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
@@ -63,7 +63,7 @@ const Projects = [
     gitrepo: "https://github.com/moazzemhosen/SportsJm-Clone",
     video: "https://sports-jm-clone.vercel.app/",
     blog: "https://medium.com/@ankitmi468/youtube-clone-a-visual-functional-clone-6f50ea8a9757",
-    tech_stack: "HTML | CSS | JAVASCRIPT | API's | REACT | REDUX |",
+    tech_stack: "HTML | CSS | JAVASCRIPT | API's | REACT | REDUX | EXPRESS",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
